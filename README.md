@@ -1,5 +1,6 @@
 
-![u3569373523_logo_for_security_tool_TerraGrade_security_terraf_3b960ac6-5df9-47f3-b1de-88035a7bfbb5_1](https://github.com/user-attachments/assets/a7ae8a33-5401-4d5e-8ada-6e87b8adeb3b)
+![terragrade](https://github.com/user-attachments/assets/6837c1d3-4e41-4f13-aa2d-5ad498a1b31a)
+
 
 # Terraform Provider Security Analyzer
 
