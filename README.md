@@ -1,3 +1,6 @@
+
+![u3569373523_logo_for_security_tool_TerraGrade_security_terraf_3b960ac6-5df9-47f3-b1de-88035a7bfbb5_1](https://github.com/user-attachments/assets/a7ae8a33-5401-4d5e-8ada-6e87b8adeb3b)
+
 # Terraform Provider Security Analyzer
 
 A Ruby script that analyzes Terraform lock files to assess the security posture of your provider dependencies using OSSF Security Scorecards and AI-powered analysis.
